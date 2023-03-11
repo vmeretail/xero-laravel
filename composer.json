@@ -1,5 +1,5 @@
 {
-    "name": "langleyfoxall/xero-laravel",
+    "name": "vmeretail/xero-laravel",
     "description": "💸 Access the Xero accounting system using an Eloquent-like syntax",
     "type": "library",
     "license": "LGPL-3.0-only",
